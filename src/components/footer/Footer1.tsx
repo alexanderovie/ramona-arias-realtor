@@ -150,8 +150,7 @@ export default function Footer1() {
                                         Our Address:
                                     </p>
                                     <p className="text_white">
-                                        101 E 129th St, East Chicago, 2nd Floor
-                                        New York, NY 10017
+                                        400 N Tampa St floor 15, Tampa, FL 33602
                                     </p>
                                 </div>
                                 <div className="text-body-default text_secondary-color mb_16">
@@ -159,7 +158,7 @@ export default function Footer1() {
                                         Support 24/7:{" "}
                                     </span>
                                     <span className="text_white ms_4">
-                                        1-555-678-8888
+                                        +1 (813) 786-4201
                                     </span>
                                 </div>
                                 <div className="text-body-default text_secondary-color">

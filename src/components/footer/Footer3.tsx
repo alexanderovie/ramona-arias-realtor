@@ -25,7 +25,7 @@ export default function Footer3() {
                                     Location:
                                 </p>
                                 <p className="text_white h5">
-                                    101 E 129th St, Chicago, New York
+                                    400 N Tampa St floor 15, Tampa, FL 33602
                                 </p>
                             </div>
                             <div>
