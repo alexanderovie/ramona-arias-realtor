@@ -64,8 +64,8 @@ export default function Header() {
                         <div className="offcanvas-title">
                             <Link href="/" className="site-logo">
                                 <Image
-                                    src="/assets/images/logo/logo.png"
-                                    alt="logo"
+                                    src="/assets/images/logo/logo-ramona-arias-realtor.png"
+                                    alt="Ramona Arias Realtor"
                                     className="main-logo"
                                     width={193}
                                     height={44}
