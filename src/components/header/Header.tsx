@@ -17,8 +17,8 @@ export default function Header() {
                             <div className="header-inner">
                                 <Link href="/" className="site-logo">
                                     <Image
-                                        src="/assets/images/logo/logo.png"
-                                        alt="logo"
+                                        src="/assets/images/logo/logo-ramona-arias-realtor.png"
+                                        alt="Ramona Arias Realtor"
                                         className="main-logo"
                                         width={222}
                                         height={48}
