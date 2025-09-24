@@ -9,28 +9,28 @@ import Image from "next/image";
 
 const locations = [
   {
-    name: "Los Angeles, CA",
-    properties: 221,
+    name: "Tampa, FL",
+    properties: 245,
     image: "/assets/images/section/location-7.jpg",
   },
   {
-    name: "San Francisco, CA",
-    properties: 312,
+    name: "St. Petersburg, FL",
+    properties: 189,
     image: "/assets/images/section/location-8.jpg",
   },
   {
-    name: "New York City, NY",
-    properties: 311,
+    name: "Clearwater, FL",
+    properties: 156,
     image: "/assets/images/section/location-9.jpg",
   },
   {
-    name: "Chicago, IL",
-    properties: 180,
+    name: "Brandon, FL",
+    properties: 134,
     image: "/assets/images/section/location-10.jpg",
   },
   {
-    name: "Boston, MA",
-    properties: 128,
+    name: "Lutz, FL",
+    properties: 98,
     image: "/assets/images/section/location-11.jpg",
   },
 ];
