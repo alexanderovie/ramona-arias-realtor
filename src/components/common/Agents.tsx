@@ -21,7 +21,7 @@ const agents: Agent[] = [
     socials: [
       { icon: "icon-FacebookLogo", href: "#" },
       { icon: "icon-XLogo", href: "#" },
-      { icon: "icon-InstagramLogo", href: "#" },
+      { icon: "icon-InstagramLogo", href: "https://www.instagram.com/ramonaariasrealtor" },
       { icon: "icon-YoutubeLogo", href: "#" },
     ],
   },
@@ -32,7 +32,7 @@ const agents: Agent[] = [
     socials: [
       { icon: "icon-FacebookLogo", href: "#" },
       { icon: "icon-XLogo", href: "#" },
-      { icon: "icon-InstagramLogo", href: "#" },
+      { icon: "icon-InstagramLogo", href: "https://www.instagram.com/ramonaariasrealtor" },
       { icon: "icon-YoutubeLogo", href: "#" },
     ],
   },
@@ -43,7 +43,7 @@ const agents: Agent[] = [
     socials: [
       { icon: "icon-FacebookLogo", href: "#" },
       { icon: "icon-XLogo", href: "#" },
-      { icon: "icon-InstagramLogo", href: "#" },
+      { icon: "icon-InstagramLogo", href: "https://www.instagram.com/ramonaariasrealtor" },
       { icon: "icon-YoutubeLogo", href: "#" },
     ],
   },
@@ -54,7 +54,7 @@ const agents: Agent[] = [
     socials: [
       { icon: "icon-FacebookLogo", href: "#" },
       { icon: "icon-XLogo", href: "#" },
-      { icon: "icon-InstagramLogo", href: "#" },
+      { icon: "icon-InstagramLogo", href: "https://www.instagram.com/ramonaariasrealtor" },
       { icon: "icon-YoutubeLogo", href: "#" },
     ],
   },

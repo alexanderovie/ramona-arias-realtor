@@ -30,7 +30,7 @@ export default function Footer2() {
             <li><a href="#" className="icon-FacebookLogo"></a></li>
             <li><a href="#" className="icon-XLogo"></a></li>
             <li><a href="#" className="icon-TiktokLogo"></a></li>
-            <li><a href="#" className="icon-InstagramLogo"></a></li>
+            <li><a href="https://www.instagram.com/ramonaariasrealtor" target="_blank" rel="noopener noreferrer" className="icon-InstagramLogo"></a></li>
             <li><a href="#" className="icon-YoutubeLogo"></a></li>
           </ul>
         </div>

@@ -118,7 +118,9 @@ export default function Header2() {
                                                 </li>
                                                 <li>
                                                     <a
-                                                        href="#"
+                                                        href="https://www.instagram.com/ramonaariasrealtor"
+                                                        target="_blank"
+                                                        rel="noopener noreferrer"
                                                         className="icon-InstagramLogo"
                                                     ></a>
                                                 </li>

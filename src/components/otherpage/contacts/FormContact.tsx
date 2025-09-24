@@ -67,7 +67,7 @@ export default function FormContact() {
                                 <a href="#" className="icon-TiktokLogo"></a>
                             </li>
                             <li>
-                                <a href="#" className="icon-InstagramLogo"></a>
+                                <a href="https://www.instagram.com/ramonaariasrealtor" target="_blank" rel="noopener noreferrer" className="icon-InstagramLogo"></a>
                             </li>
                             <li>
                                 <a href="#" className="icon-YoutubeLogo"></a>
