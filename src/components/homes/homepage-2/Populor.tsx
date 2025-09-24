@@ -91,7 +91,7 @@ export default function Populor() {
                     ))}
                 </div>
                 <a
-                    href="listing-topmap-grid.html"
+                    href="/listing-topmap-grid"
                     className="tf-btn btn-bg-1 mx-auto btn-px-32 scrolling-effect effectBottom"
                 >
                     <span>View All Properties</span>

@@ -7,6 +7,7 @@ import "../../public/assets/icons/icomoon/style.css";
 import "../../public/assets/scss/app.scss";
 import BackToTop from "@/components/common/BackToTop";
 import ClientScripts from "@/components/common/ClientScripts";
+import StructuredData from "@/components/common/StructuredData";
 import { Metadata } from "next";
 
 const manrope = Manrope({
@@ -17,6 +18,9 @@ const manrope = Manrope({
 export const metadata: Metadata = {
     title: "Ramona Arias Realtor - Professional Real Estate Services",
     description: "Professional real estate services by Ramona Arias. Find your perfect home with expert guidance and personalized service.",
+    alternates: {
+        canonical: "https://www.ramonaariasrealtor.com",
+    },
     appleWebApp: {
         title: "Ramona",
     },
@@ -43,6 +47,9 @@ export default function RootLayout({
 }) {
     return (
         <html lang="en">
+            <head>
+                <StructuredData />
+            </head>
             <body className={manrope.variable}>
                 <div id="wrapper">{children}</div>
                 <ClientScripts />

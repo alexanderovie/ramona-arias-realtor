@@ -84,9 +84,15 @@ export default function Hero() {
                                 <div className="tf-container ">
                                     <div className="row">
                                         <div className="col-lg-7">
-                                            <h1 className="title text_white mb_24 fw-5 effect-item effect-1 effect-up ">
-                                                {slide.title}
-                                            </h1>
+                                            {idx === 0 ? (
+                                                <h1 className="title text_white mb_24 fw-5 effect-item effect-1 effect-up ">
+                                                    {slide.title}
+                                                </h1>
+                                            ) : (
+                                                <h2 className="title text_white mb_24 fw-5 effect-item effect-1 effect-up ">
+                                                    {slide.title}
+                                                </h2>
+                                            )}
                                             <p className="h6 text_white effect-item effect-2 effect-left ">
                                                 {slide.description}
                                             </p>
