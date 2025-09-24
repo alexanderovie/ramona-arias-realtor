@@ -1,10 +1,20 @@
 import React from 'react'
+import Image from 'next/image'
 
 export default function Footer2() {
   return (
     <footer className="footer style-1">
       <div className="tf-container ">
         <div className="footer-body">
+          <div className="footer-logo mb_30 text-center">
+            <Image
+              src="/assets/images/logo/logo-footer.png"
+              alt="Ramona Arias Realtor"
+              width={300}
+              height={60}
+              className="main-logo"
+            />
+          </div>
           <div className="footer-infor justify-content-between">
             <div className="item">
               <span className="d-block text_color-1 text-title mb_8">Phone Number:</span>

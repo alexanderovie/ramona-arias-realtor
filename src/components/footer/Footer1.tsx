@@ -138,7 +138,7 @@ export default function Footer1() {
                             <div className="footer-about footer-item">
                                 <Link href="/" className="footer-logo mb_17">
                                     <Image
-                                        src="/assets/images/logo/logo-2.png"
+                                        src="/assets/images/logo/logo-footer.png"
                                         alt="logo"
                                         className="main-logo"
                                         width={222}
