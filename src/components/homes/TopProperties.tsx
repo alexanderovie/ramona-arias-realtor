@@ -11,7 +11,7 @@ export default function TopProperties() {
         <div className="sw-layout section-top-properties tf-spacing-3">
             <div className="tf-container w-1830">
                 <div className="heading-section justify-content-center text-center mb_48">
-                    <span className="sub text-uppercase fw-6 text_secondary-color-2 split-text effect-rotate">
+                    <span className="sub text-uppercase fw-6 text_secondary-color-2 split-text effect-rotate" role="text">
                         Top Properties
                     </span>
                     <h3 className="text_white split-text effect-blur-fade">

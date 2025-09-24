@@ -47,6 +47,9 @@ export default function SidebarFilterDefault() {
                             href="#forRent"
                             className="nav-link-item active"
                             data-bs-toggle="tab"
+                            role="tab"
+                            aria-controls="forRent"
+                            aria-selected="true"
                         >
                             For Rent
                         </a>
@@ -59,6 +62,9 @@ export default function SidebarFilterDefault() {
                             href="#forSale"
                             className="nav-link-item"
                             data-bs-toggle="tab"
+                            role="tab"
+                            aria-controls="forSale"
+                            aria-selected="false"
                         >
                             For Sale
                         </a>
@@ -66,7 +72,7 @@ export default function SidebarFilterDefault() {
                 </ul>
 
                 <div className="wg-filter">
-                    <div className="widget-content-inner active">
+                    <div className="widget-content-inner active" role="tabpanel" id="forRent" aria-labelledby="forRent-tab">
                         <div className="form-title">
                             <div className="wrap-fill tf-grid-layout lg-col-4 md-col-2">
                                 <form className="w-full">

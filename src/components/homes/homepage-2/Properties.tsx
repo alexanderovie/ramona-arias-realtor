@@ -22,7 +22,7 @@ export default function Properties() {
         <div className="section-features-property-2 tf-spacing-1">
             <div className="tf-container">
                 <div className="heading-section justify-content-center text-center mb_48">
-                    <span className="sub text-uppercase fw-6 text_secondary-color-2 split-text effect-rotate">
+                    <span className="sub text-uppercase fw-6 text_secondary-color-2 split-text effect-rotate" role="text">
                         Features Properties
                     </span>
                     <h3 className="split-text effect-blur-fade">

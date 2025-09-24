@@ -40,7 +40,7 @@ export default function Location() {
     <div className="section-location-3 sw-layout">
       <div className="tf-container w-1830">
         <div className="heading-section justify-content-center text-center mb_46">
-          <span className="sub text-uppercase fw-6 text_secondary-color-2 split-text effect-rotate">
+          <span className="sub text-uppercase fw-6 text_secondary-color-2 split-text effect-rotate" role="text">
             Explore Cities
           </span>
           <h3 className="split-text effect-blur-fade">Property Location</h3>
