@@ -57,8 +57,8 @@ export default function Header2() {
                                     src="/assets/images/logo/logo-ramona-arias-realtor.png"
                                     alt="Ramona Arias Realtor"
                                     className="main-logo"
-                                    width={193}
-                                    height={44}
+                                    width={230}
+                                    height={50}
                                 />
                             </Link>
                         </div>
@@ -90,8 +90,8 @@ export default function Header2() {
                                     </li>
                                     <li>
                                         Support 24/7:{" "}
-                                        <a href="#" className="link">
-                                            themesflat@gmail.com
+                                        <a href="mailto:info@ramonaariasrealtor.com" className="link">
+                                            info@ramonaariasrealtor.com
                                         </a>
                                     </li>
                                     <li>

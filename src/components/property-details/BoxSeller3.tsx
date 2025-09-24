@@ -22,10 +22,10 @@ export default function BoxSeller3() {
                                 1-555-678-8888
                             </span>
                             <a
-                                href="#"
+                                href="mailto:info@ramonaariasrealtor.com"
                                 className="text_secondary-color text-body-default link"
                             >
-                                themesflat@gmail.com
+                                info@ramonaariasrealtor.com
                             </a>
                         </div>
                     </div>

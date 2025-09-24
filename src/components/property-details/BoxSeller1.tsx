@@ -19,10 +19,10 @@ export default function BoxSeller1() {
                     <h6 className="mb_8">Jorge R.</h6>
                     <span className="text-body-default">1-555-678-8888</span>
                     <Link
-                        href="#"
+                        href="mailto:info@ramonaariasrealtor.com"
                         className="text_secondary-color text-body-default link"
                     >
-                        themesflat@gmail.com
+                        info@ramonaariasrealtor.com
                     </Link>
                 </div>
             </div>

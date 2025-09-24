@@ -13,9 +13,9 @@ import SidebarFilterDefault from "@/components/common/SidebarFilterDefault";
 const heroSlides = [
     {
         image: "/assets/images/page-title/page-title-4.jpg",
-        title: "Your Perfect Home Awaits",
+        title: "Find Your Dream Home in Tampa",
         description:
-            "From cozy bedrooms to open-concept living areas, Luminor offers thoughtfully designed spaces tailored to fit your lifestyle and dreams.",
+            "Expert real estate guidance by Ramona Arias. From luxury condos to family homes, discover the perfect property in Tampa Bay with personalized service and local expertise.",
         buttons: [
             {
                 href: "/listing-topmap-grid",
@@ -31,9 +31,9 @@ const heroSlides = [
     },
     {
         image: "/assets/images/page-title/page-title-5.jpg",
-        title: "Your Perfect Home Awaits",
+        title: "Professional Real Estate Services",
         description:
-            "From cozy bedrooms to open-concept living areas, Luminor offers thoughtfully designed spaces tailored to fit your lifestyle and dreams.",
+            "Trusted realtor with years of experience helping families find their perfect home. Let Ramona guide you through your real estate journey with dedication and expertise.",
         buttons: [
             {
                 href: "/listing-topmap-grid",

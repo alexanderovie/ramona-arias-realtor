@@ -46,10 +46,10 @@ export default function FormContact() {
                                     Email Address:
                                 </div>
                                 <a
-                                    href="mailto:themesflat@gmail.com"
+                                    href="mailto:info@ramonaariasrealtor.com"
                                     className="link text_secondary-color text-body-default"
                                 >
-                                    themesflat@gmail.com
+                                    info@ramonaariasrealtor.com
                                 </a>
                             </div>
                         </li>

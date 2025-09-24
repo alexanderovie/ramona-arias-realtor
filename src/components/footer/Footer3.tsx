@@ -104,7 +104,7 @@ export default function Footer3() {
                 <p className="text_muted-color">
                     ©2025{" "}
                     <a href="#" className="text_white hover-underline-link">
-                        Luminor.
+                        Ramona Arias Realtor.
                     </a>
                     All Rights Reserved.
                 </p>

@@ -50,7 +50,7 @@ export default function CallBack() {
                                             href="#"
                                             className="link text_secondary-color text-body-default"
                                         >
-                                            themesflat@gmail.com
+                                            info@ramonaariasrealtor.com
                                         </a>
                                     </div>
                                 </div>

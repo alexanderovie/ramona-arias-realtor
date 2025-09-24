@@ -167,10 +167,10 @@ export default function Footer1() {
                                         Email Address:{" "}
                                     </span>
                                     <Link
-                                        href="mailto:themesflat@gmail.com"
+                                        href="mailto:info@ramonaariasrealtor.com"
                                         className="text_white link ms_4"
                                     >
-                                        themesflat@gmail.com
+                                        info@ramonaariasrealtor.com
                                     </Link>
                                 </div>
                             </div>
@@ -277,7 +277,7 @@ export default function Footer1() {
                             href="#"
                             className="text_white hover-underline-link"
                         >
-                            Luminor.
+                            Ramona Arias Realtor.
                         </Link>{" "}
                         {"  "}
                         All Rights Reserved.

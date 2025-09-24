@@ -11,8 +11,8 @@ export default function TopBar() {
                         <Image
                             className="logo_top-bar"
                             alt="Ramona Arias Realtor"
-                            width={292}
-                            height={48}
+                            width={350}
+                            height={60}
                             src="/assets/images/logo/logo-ramona-arias-realtor.png"
                         />
                     </Link>
@@ -26,20 +26,7 @@ export default function TopBar() {
                                     Have any Question?
                                 </p>
                                 <span className="text-title fw-6 text_primary-color">
-                                    315-666-6688
-                                </span>
-                            </div>
-                        </div>
-                        <div className="item d-flex gap_12 align-items-center">
-                            <div className="icon">
-                                <i className="icon-EnvelopeSimple"></i>
-                            </div>
-                            <div className="content">
-                                <p className="text-caption-2 mb_4">Email Us:</p>
-                                <span className="text-title fw-6 text_primary-color">
-                                    <a href="#" className="link">
-                                        themesflat@gmail.com
-                                    </a>
+                                    +1 (813) 786-4201
                                 </span>
                             </div>
                         </div>
