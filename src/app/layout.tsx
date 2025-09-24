@@ -17,6 +17,20 @@ const manrope = Manrope({
 export const metadata: Metadata = {
     title: "Ramona Arias Realtor - Professional Real Estate Services",
     description: "Professional real estate services by Ramona Arias. Find your perfect home with expert guidance and personalized service.",
+    appleWebApp: {
+        title: "Ramona",
+    },
+    manifest: "/manifest.json",
+    icons: {
+        icon: [
+            { url: "/favicon.ico" },
+            { url: "/icon1.png", sizes: "32x32", type: "image/png" },
+            { url: "/icon0.svg", type: "image/svg+xml" },
+        ],
+        apple: [
+            { url: "/apple-icon.png", sizes: "180x180", type: "image/png" },
+        ],
+    },
 };
 
 export default function RootLayout({
