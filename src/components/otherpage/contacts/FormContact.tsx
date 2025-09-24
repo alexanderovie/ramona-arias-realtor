@@ -26,7 +26,7 @@ export default function FormContact() {
                                     Our Address:
                                 </div>
                                 <p>
-                                    101 E 129th St, East Chicago, 2nd Floor, NY
+                                    400 N Tampa St floor 15, Tampa, FL 33602
                                 </p>
                             </div>
                         </li>
@@ -36,7 +36,7 @@ export default function FormContact() {
                                 <div className="text-title fw-6 text_primary-color mb_4">
                                     Contact Us
                                 </div>
-                                <p>1-555-678-8888</p>
+                                <p>+1 (813) 786-4201</p>
                             </div>
                         </li>
                         <li>
