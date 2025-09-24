@@ -21,6 +21,9 @@ export const metadata: Metadata = {
         title: "Ramona",
     },
     manifest: "/manifest.json",
+    verification: {
+        google: "ODxBBkgkSSSAY_Tc6UTyyNVaVdB3fgm2cbpYb_UOkiM",
+    },
     icons: {
         icon: [
             { url: "/favicon.ico" },
