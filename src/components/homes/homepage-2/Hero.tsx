@@ -7,7 +7,6 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 import "swiper/css/effect-fade";
 import Image from "next/image";
-import SidebarFilterDefault from "@/components/common/SidebarFilterDefault";
 
 
 const heroSlides = [
@@ -123,7 +122,6 @@ export default function Hero() {
                 </div>
                 <div className="sw-dots sw-pagination-layout justify-content-center d-flex"></div>
             </Swiper>
-            <SidebarFilterDefault />
         </div>
     );
 }

@@ -9,7 +9,7 @@ export default function Map3() {
     const [error, setError] = useState<string | null>(null);
 
     useEffect(() => {
-        const accessToken = process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN;
+        const accessToken = process.env?.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN;
         if (!accessToken) {
             setError("Missing Mapbox access token.");
             return;

@@ -3,11 +3,14 @@ export const bathroomOptions: string[] = ["Any Bathrooms", "1", "2", "3", "4+"];
 export const garageOptions: string[] = ["Any Garages", "1", "2", "3+"];
 export const cityOptions: string[] = [
     "All Cities",
-    "New York",
-    "Los Angeles",
-    "Chicago",
-    "Houston",
-    "Phoenix",
+    "Tampa",
+    "St. Petersburg",
+    "Clearwater",
+    "Brandon",
+    "Riverview",
+    "Temple Terrace",
+    "Lutz",
+    "Carrollwood",
 ];
 export const budgetOptions: string[] = [
     "Max. Price",

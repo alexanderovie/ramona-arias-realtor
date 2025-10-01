@@ -3,6 +3,8 @@ import React from "react";
 import { allBlogs } from "@/data/blog";
 import BlogPost1 from "@/components/blogs/BlogPost1";
 
+export const dynamic = 'force-dynamic';
+
 type PageProps = {
   params: Promise<{
     id: string;
