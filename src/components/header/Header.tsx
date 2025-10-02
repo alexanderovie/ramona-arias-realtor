@@ -99,7 +99,7 @@ export default function Header() {
                                         </span>
                                     </li>
                                     <li>
-                                        Support 24/7:{" "}
+                                        Contact Us:{" "}
                                         <a href="mailto:info@ramonaariasrealtor.com" className="link">
                                             info@ramonaariasrealtor.com
                                         </a>

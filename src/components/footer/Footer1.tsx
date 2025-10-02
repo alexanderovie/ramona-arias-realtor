@@ -155,7 +155,7 @@ export default function Footer1() {
                                 </div>
                                 <div className="text-body-default text_secondary-color mb_16">
                                     <span className="text_color-1">
-                                        Support 24/7:{" "}
+                                        Contact Us:{" "}
                                     </span>
                                     <span className="text_white ms_4">
                                         +1 (813) 786-4201
