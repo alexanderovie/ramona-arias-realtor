@@ -95,7 +95,7 @@ export default function AboutUs() {
                         Background & Professional License
                     </h4>
                     <p className="mb_8">
-                        Licensed by the State of Florida Department of Business and Professional Regulation, Ramona brings fresh strategies, local knowledge, and a strong commitment to serving the Tampa Bay community with professionalism and care. This combination ensures that every client benefits from both innovative market approaches and a personalized, reliable experience.
+                        Licensed in 2025 by the State of Florida Department of Business and Professional Regulation, Ramona brings a strong background in customer service and a deep connection to the Tampa Bay community. This fresh perspective, combined with innovative strategies, allows her to guide clients with professionalism, dedication, and care.
                     </p>
                 </div>
             </div>

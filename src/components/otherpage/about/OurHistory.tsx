@@ -8,29 +8,19 @@ type TimeLine = {
 
 const history: TimeLine[] = [
     {
-        year: "2009",
-        title: "Humble Beginnings",
-        text: "We started as a small, local agency with a clear mission: helping people find homes with honesty and care.",
+        year: "2025",
+        title: "Licensed Realtor",
+        text: "Ramona became a licensed Florida Realtor and began serving families and investors in Tampa Bay.",
     },
     {
-        year: "2015",
-        title: "A Trusted Name",
-        text: "Gained recognition for reliable service and built long-term relationships with clients and partners.",
+        year: "2025",
+        title: "Modern Tools & Solutions",
+        text: "Adopted modern tools and digital solutions to simplify property searches and improve client experience.",
     },
     {
-        year: "2018",
-        title: "Embracing Innovation",
-        text: "Adopted new technologies to streamline the property search and improve customer experience.",
-    },
-    {
-        year: "2021",
-        title: "Over 1,000 Homes Sold",
-        text: "Reached a major milestone with over a thousand successful property transactions completed.",
-    },
-    {
-        year: "2024",
-        title: "Moving Forward Together",
-        text: "Continuing to grow with a dedicated team, modern tools, and a renewed vision for the future.",
+        year: "2026",
+        title: "Expanding Services",
+        text: "Committed to expanding services and building lasting relationships across Tampa, St. Petersburg, and Clearwater.",
     },
 ];
 
