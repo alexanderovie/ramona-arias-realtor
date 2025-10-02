@@ -80,7 +80,7 @@ export default function ClientScripts() {
 
     // Bootstrap JS
     useEffect(() => {
-        import("bootstrap/dist/js/bootstrap.bundle.min.js").then((bootstrap) => {
+        import("bootstrap/dist/js/bootstrap.bundle.min.js").then(() => {
             // Bootstrap is now loaded and available globally
             console.log("Bootstrap JS loaded successfully");
         });
