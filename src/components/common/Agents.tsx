@@ -68,22 +68,21 @@ export default function Agents() {
           <div className="box">
             <div className="heading-section mb_32">
               <span className="sub text-uppercase fw-6 text_secondary-color-2">
-                Top Agents
+                About Ramona Arias
               </span>
-              <h3>Jessica Lane</h3>
+              <h3>Ramona Arias Realtor</h3>
             </div>
             <div className="content mb_32">
               <h6 className="mb_12">
-                Total Sales Volume: $48M+ in Closed Sales
+                Licensed Real Estate Professional in Tampa Bay
               </h6>
               <p className="text-body-2">
-                With over a decade of real estate experience in luxury coastal
-                properties, Jessica is known for her integrity, deep market
-                knowledge.
+                Newly licensed realtor ready to help you find your perfect home. 
+                Licensed by the State of Florida Department of Business and Professional Regulation.
               </p>
             </div>
-            <a href="#" className="tf-btn btn-bg-1 btn-px-24">
-              <span>View Agent</span>
+            <a href="/contacts" className="tf-btn btn-bg-1 btn-px-24">
+              <span>Contact Ramona</span>
               <span className="bg-effect"></span>
             </a>
           </div>

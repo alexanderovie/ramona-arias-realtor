@@ -15,7 +15,7 @@ export default function Banner1() {
                         Start Your Homeownership Journey Today
                     </h2>
                     <p className="text_white text-body-1">
-                        Connect with your Designer in minutes
+                        Connect with Ramona in minutes
                     </p>
                 </div>
             </div>

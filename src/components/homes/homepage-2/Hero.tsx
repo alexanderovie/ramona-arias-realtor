@@ -32,7 +32,7 @@ const heroSlides = [
         image: "/assets/images/page-title/page-title-5.jpg",
         title: "Professional Real Estate Services",
         description:
-            "Trusted realtor with years of experience helping families find their perfect home. Let Ramona guide you through your real estate journey with dedication and expertise.",
+            "Licensed realtor ready to help you find your perfect home. Let Ramona guide you through your real estate journey with dedication and professional service.",
         buttons: [
             {
                 href: "/listing-topmap-grid",
