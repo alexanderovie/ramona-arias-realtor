@@ -29,9 +29,19 @@ const locations = [
     image: "/assets/images/section/location-10.jpg",
   },
   {
-    name: "Lutz, FL",
-    properties: 98,
+    name: "Riverview, FL",
+    properties: 112,
     image: "/assets/images/section/location-11.jpg",
+  },
+  {
+    name: "Wesley Chapel, FL",
+    properties: 98,
+    image: "/assets/images/section/location-12.jpg",
+  },
+  {
+    name: "Lutz, FL",
+    properties: 87,
+    image: "/assets/images/section/location-13.jpg",
   },
 ];
 

@@ -2,12 +2,13 @@ export const bedroomOptions: string[] = ["Any Bedrooms", "1", "2", "3", "4+"];
 export const bathroomOptions: string[] = ["Any Bathrooms", "1", "2", "3", "4+"];
 export const garageOptions: string[] = ["Any Garages", "1", "2", "3+"];
 export const cityOptions: string[] = [
-    "All Cities",
+    "Tampa Bay Area",
     "Tampa",
     "St. Petersburg",
     "Clearwater",
     "Brandon",
     "Riverview",
+    "Wesley Chapel",
     "Temple Terrace",
     "Lutz",
     "Carrollwood",
