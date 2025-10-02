@@ -10,7 +10,7 @@ export default function Faqs() {
                         <div className="col-lg-8">
                             {/* Buying a Home Section */}
                             <div className="faq-item">
-                                <h4 className="mb_18">🏡 Buying a Home</h4>
+                                <h4 className="mb_18">Buying a Home</h4>
                                 <ul
                                     className="accordion-wrap"
                                     id="accordion-faq-buying"
@@ -110,7 +110,7 @@ export default function Faqs() {
 
                             {/* Renting Property Section */}
                             <div className="faq-item">
-                                <h4 className="mb_18">🏘️ Renting Property</h4>
+                                <h4 className="mb_18">Renting Property</h4>
                                 <ul
                                     className="accordion-wrap"
                                     id="accordion-faq-renting"
@@ -180,7 +180,7 @@ export default function Faqs() {
 
                             {/* Land & Investment Section */}
                             <div className="faq-item">
-                                <h4 className="mb_18">🌱 Land & Investment</h4>
+                                <h4 className="mb_18">Land & Investment</h4>
                                 <ul
                                     className="accordion-wrap"
                                     id="accordion-faq-investment"
@@ -250,7 +250,7 @@ export default function Faqs() {
 
                             {/* Property Taxes & Valuation Section */}
                             <div className="faq-item">
-                                <h4 className="mb_18">💰 Property Taxes & Valuation</h4>
+                                <h4 className="mb_18">Property Taxes & Valuation</h4>
                                 <ul
                                     className="accordion-wrap"
                                     id="accordion-faq-taxes"
@@ -320,7 +320,7 @@ export default function Faqs() {
 
                             {/* Property Management Section */}
                             <div className="faq-item">
-                                <h4 className="mb_18">🏠 Property Management</h4>
+                                <h4 className="mb_18">Property Management</h4>
                                 <ul
                                     className="accordion-wrap"
                                     id="accordion-faq-management"
