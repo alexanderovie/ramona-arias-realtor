@@ -78,6 +78,14 @@ const wishList = () => {
 export default function ClientScripts() {
     const pathname = usePathname();
 
+    // Bootstrap JS
+    useEffect(() => {
+        import("bootstrap/dist/js/bootstrap.bundle.min.js").then((bootstrap) => {
+            // Bootstrap is now loaded and available globally
+            console.log("Bootstrap JS loaded successfully");
+        });
+    }, []);
+
     // Splitting text library
     useEffect(() => {
         import("splitting").then((Splitting) => {

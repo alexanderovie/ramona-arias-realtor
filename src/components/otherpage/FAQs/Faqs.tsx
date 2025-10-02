@@ -50,7 +50,7 @@ export default function Faqs() {
                                             href="#accordion-faq-2"
                                             className="accordion-title collapsed"
                                             data-bs-toggle="collapse"
-                                            aria-expanded="true"
+                                            aria-expanded="false"
                                             aria-controls="accordion-faq-2"
                                         >
                                             <div className="heading">
@@ -80,7 +80,7 @@ export default function Faqs() {
                                             href="#accordion-faq-3"
                                             className="accordion-title collapsed"
                                             data-bs-toggle="collapse"
-                                            aria-expanded="true"
+                                            aria-expanded="false"
                                             aria-controls="accordion-faq-3"
                                         >
                                             <div className="heading">
@@ -110,7 +110,7 @@ export default function Faqs() {
                                             href="#accordion-faq-4"
                                             className="accordion-title collapsed"
                                             data-bs-toggle="collapse"
-                                            aria-expanded="true"
+                                            aria-expanded="false"
                                             aria-controls="accordion-faq-4"
                                         >
                                             <div className="heading">
@@ -140,7 +140,7 @@ export default function Faqs() {
                                             href="#accordion-faq-5"
                                             className="accordion-title collapsed"
                                             data-bs-toggle="collapse"
-                                            aria-expanded="true"
+                                            aria-expanded="false"
                                             aria-controls="accordion-faq-5"
                                         >
                                             <div className="heading">
@@ -180,7 +180,7 @@ export default function Faqs() {
                                             href="#accordion-faq-1-1"
                                             className="accordion-title collapsed"
                                             data-bs-toggle="collapse"
-                                            aria-expanded="true"
+                                            aria-expanded="false"
                                             aria-controls="accordion-faq-1-1"
                                         >
                                             <div className="heading">
@@ -210,7 +210,7 @@ export default function Faqs() {
                                             href="#accordion-faq-1-2"
                                             className="accordion-title collapsed"
                                             data-bs-toggle="collapse"
-                                            aria-expanded="true"
+                                            aria-expanded="false"
                                             aria-controls="accordion-faq-1-2"
                                         >
                                             <div className="heading">
@@ -240,7 +240,7 @@ export default function Faqs() {
                                             href="#accordion-faq-1-3"
                                             className="accordion-title collapsed"
                                             data-bs-toggle="collapse"
-                                            aria-expanded="true"
+                                            aria-expanded="false"
                                             aria-controls="accordion-faq-1-3"
                                         >
                                             <div className="heading">
@@ -270,7 +270,7 @@ export default function Faqs() {
                                             href="#accordion-faq-1-4"
                                             className="accordion-title collapsed"
                                             data-bs-toggle="collapse"
-                                            aria-expanded="true"
+                                            aria-expanded="false"
                                             aria-controls="accordion-faq-1-4"
                                         >
                                             <div className="heading">
@@ -300,7 +300,7 @@ export default function Faqs() {
                                             href="#accordion-faq-1-5"
                                             className="accordion-title collapsed"
                                             data-bs-toggle="collapse"
-                                            aria-expanded="true"
+                                            aria-expanded="false"
                                             aria-controls="accordion-faq-1-5"
                                         >
                                             <div className="heading">
@@ -340,7 +340,7 @@ export default function Faqs() {
                                             href="#accordion-faq-2-1"
                                             className="accordion-title collapsed"
                                             data-bs-toggle="collapse"
-                                            aria-expanded="true"
+                                            aria-expanded="false"
                                             aria-controls="accordion-faq-2-1"
                                         >
                                             <div className="heading">
@@ -370,7 +370,7 @@ export default function Faqs() {
                                             href="#accordion-faq-2-2"
                                             className="accordion-title collapsed"
                                             data-bs-toggle="collapse"
-                                            aria-expanded="true"
+                                            aria-expanded="false"
                                             aria-controls="accordion-faq-2-2"
                                         >
                                             <div className="heading">
@@ -400,7 +400,7 @@ export default function Faqs() {
                                             href="#accordion-faq-2-3"
                                             className="accordion-title collapsed"
                                             data-bs-toggle="collapse"
-                                            aria-expanded="true"
+                                            aria-expanded="false"
                                             aria-controls="accordion-faq-2-3"
                                         >
                                             <div className="heading">
@@ -430,7 +430,7 @@ export default function Faqs() {
                                             href="#accordion-faq-2-4"
                                             className="accordion-title collapsed"
                                             data-bs-toggle="collapse"
-                                            aria-expanded="true"
+                                            aria-expanded="false"
                                             aria-controls="accordion-faq-2-4"
                                         >
                                             <div className="heading">
@@ -460,7 +460,7 @@ export default function Faqs() {
                                             href="#accordion-faq-2-5"
                                             className="accordion-title collapsed"
                                             data-bs-toggle="collapse"
-                                            aria-expanded="true"
+                                            aria-expanded="false"
                                             aria-controls="accordion-faq-2-5"
                                         >
                                             <div className="heading">
