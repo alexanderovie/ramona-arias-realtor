@@ -28,7 +28,7 @@ export default function AboutUs() {
                                 </div>
                             </div>
                             <h6 className="text_secondary-color sub">
-                                Awards Received
+                                Properties Sold
                             </h6>
                         </div>
                         <div className="d-flex gap_12 bot">
@@ -55,7 +55,7 @@ export default function AboutUs() {
                                     </div>
                                 </div>
                                 <h6 className="text_secondary-color sub">
-                                    Monthly Traffic
+                                    Happy Clients
                                 </h6>
                             </div>
                         </div>
@@ -69,15 +69,10 @@ export default function AboutUs() {
                         Our Mission
                     </h4>
                     <p className="mb_8">
-                        To simplify the real estate journey by connecting people
-                        with the right properties through trust, transparency,
-                        and technology.
+                        To simplify the real estate journey for every client by providing guidance, transparency, and personalized service. At Ramona Arias Realtor, we focus on helping families and investors in Tampa Bay, St. Petersburg, and Clearwater make confident real estate decisions with peace of mind.
                     </p>
                     <p>
-                        We are committed to delivering personalized experiences,
-                        whether you&#39;re buying, selling, or renting. We
-                        embrace new technologies and market trends to deliver
-                        smarter, faster, and more efficient property solutions.
+                        We are committed to delivering personalized experiences, whether you&#39;re buying, selling, or renting. We embrace new technologies and market trends to deliver smarter, faster, and more efficient property solutions.
                     </p>
                 </div>
                 <div className="box">
@@ -86,15 +81,21 @@ export default function AboutUs() {
                         Our Vision
                     </h4>
                     <p className="mb_8">
-                        To become the most trusted real estate partner by
-                        redefining how people discover, evaluate, and engage
-                        with properties.
+                        To be recognized as a trusted real estate partner in Tampa Bay. We aim to build lasting relationships through honesty, communication, and results that truly reflect our clients&#39; goals.
                     </p>
                     <p>
-                        We envision a future where every individual can find
-                        their ideal home or investment with confidence,
-                        supported by innovation, integrity, and a deep
-                        understanding of market needs.
+                        We envision a future where every individual can find their ideal home or investment with confidence, supported by innovation, integrity, and a deep understanding of market needs.
+                    </p>
+                </div>
+            </div>
+            <div className="tf-grid-layout md-col-1 mt_48">
+                <div className="box text-center">
+                    <h4 className="title d-flex gap_12 align-items-center mb_20 justify-content-center">
+                        <i className="icon-UserCheck"></i>
+                        Background & Professional License
+                    </h4>
+                    <p className="mb_8">
+                        Although newly licensed in 2025 by the State of Florida Department of Business and Professional Regulation, Ramona brings years of dedication to customer service and a deep knowledge of the Tampa Bay area. This combination ensures that every client benefits from both fresh market strategies and a personalized, reliable experience.
                     </p>
                 </div>
             </div>
