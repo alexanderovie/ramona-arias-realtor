@@ -55,8 +55,7 @@ export default function Agents() {
                 Licensed Real Estate Professional in Tampa Bay
               </h6>
               <p className="text-body-2">
-                Newly licensed realtor ready to help you find your perfect home. 
-                Licensed by the State of Florida Department of Business and Professional Regulation.
+                Licensed by the State of Florida Department of Business and Professional Regulation, Ramona brings fresh strategies, local knowledge, and a strong commitment to serving the Tampa Bay community with professionalism and care.
               </p>
             </div>
             <a href="/contacts" className="tf-btn btn-bg-1 btn-px-24">

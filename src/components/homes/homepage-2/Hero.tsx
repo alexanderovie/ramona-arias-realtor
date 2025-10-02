@@ -12,9 +12,9 @@ import Image from "next/image";
 const heroSlides = [
     {
         image: "/assets/images/page-title/page-title-4.jpg",
-        title: "Find Your Dream Home in Tampa",
+        title: "Your Trusted Real Estate Partner in Tampa Bay",
         description:
-            "Expert real estate guidance by Ramona Arias. From luxury condos to family homes, discover the perfect property in Tampa Bay with personalized service and local expertise.",
+            "Ramona Arias Realtor offers personalized real estate services in Tampa Bay, including Tampa, St. Petersburg, and Clearwater. Whether buying your first home or investing in property, you'll receive trusted guidance and local expertise at every step.",
         buttons: [
             {
                 href: "/listing-topmap-grid",
@@ -32,7 +32,7 @@ const heroSlides = [
         image: "/assets/images/page-title/page-title-5.jpg",
         title: "Professional Real Estate Services",
         description:
-            "Licensed realtor ready to help you find your perfect home. Let Ramona guide you through your real estate journey with dedication and professional service.",
+            "As a licensed Florida Realtor, Ramona specializes in residential and investment properties across Tampa Bay. With a focus on transparency, communication, and client success, she ensures your real estate journey is smooth and rewarding.",
         buttons: [
             {
                 href: "/listing-topmap-grid",
