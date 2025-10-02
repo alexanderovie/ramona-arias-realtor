@@ -15,7 +15,7 @@ export default function Banner1() {
                         Real Estate Journey?
                     </h2>
                     <p className="text_white text-body-1 mb_20">
-                        Whether you're buying, selling, or investing in Tampa Bay, Ramona Arias Realtor is here to guide you with personalized attention and trusted expertise.
+                        Whether you&apos;re buying, selling, or investing in Tampa Bay, Ramona Arias Realtor is here to guide you with personalized attention and trusted expertise.
                     </p>
                     <p className="text_white text-body-1">
                         👉 Schedule your consultation today and start your real estate journey with confidence.

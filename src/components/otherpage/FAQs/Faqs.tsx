@@ -1,4 +1,3 @@
-import DropdownSelect2 from "@/components/common/DropdownSelect2";
 import React from "react";
 import { submitFAQQuestion } from "@/actions/faqAction";
 
@@ -68,7 +67,7 @@ export default function Faqs() {
                                         >
                                             <div className="accordion-faqs-content">
                                                 <p className="mb_12">
-                                                    Mobile homes can be an affordable option, but it's important to check land ownership, park fees, and age restrictions. Financing may differ compared to traditional homes.
+                                                    Mobile homes can be an affordable option, but it&apos;s important to check land ownership, park fees, and age restrictions. Financing may differ compared to traditional homes.
                                                 </p>
                                                 <p className="text_primary-color fw-6">
                                                     👉 Ramona helps buyers understand the details of purchasing mobile homes in Tampa Bay.
@@ -156,7 +155,7 @@ export default function Faqs() {
                                         >
                                             <div className="heading">
                                                 <div className="title text-capitalize text-title text_primary-color fw-6">
-                                                    What's the difference between renting an apartment and a townhome?
+                                                    What&apos;s the difference between renting an apartment and a townhome?
                                                 </div>
                                                 <span className="icon icon-CaretDown"></span>
                                             </div>
@@ -238,7 +237,7 @@ export default function Faqs() {
                                         >
                                             <div className="accordion-faqs-content">
                                                 <p className="mb_12">
-                                                    Yes. Tampa Bay is one of Florida's fastest-growing markets, attracting both homeowners and investors. Strong rental demand and steady appreciation make it attractive for long-term investments.
+                                                    Yes. Tampa Bay is one of Florida&apos;s fastest-growing markets, attracting both homeowners and investors. Strong rental demand and steady appreciation make it attractive for long-term investments.
                                                 </p>
                                                 <p className="text_primary-color fw-6">
                                                     👉 Ramona provides tailored investment strategies for Tampa, St. Petersburg, and Clearwater.
@@ -278,7 +277,7 @@ export default function Faqs() {
                                         >
                                             <div className="accordion-faqs-content">
                                                 <p className="mb_12">
-                                                    Property taxes are based on assessed value and millage rates set by the county. For Hillsborough County, you can check the Property Appraiser's website for accurate numbers.
+                                                    Property taxes are based on assessed value and millage rates set by the county. For Hillsborough County, you can check the Property Appraiser&apos;s website for accurate numbers.
                                                 </p>
                                                 <p className="text_primary-color fw-6">
                                                     👉 Ramona can guide you in estimating taxes for homes in Tampa and surrounding areas.
@@ -348,7 +347,7 @@ export default function Faqs() {
                                         >
                                             <div className="accordion-faqs-content">
                                                 <p className="mb_12">
-                                                    Property managers handle tenant screening, rent collection, maintenance, and legal compliance. They are especially useful for investors who don't live locally.
+                                                    Property managers handle tenant screening, rent collection, maintenance, and legal compliance. They are especially useful for investors who don&apos;t live locally.
                                                 </p>
                                                 <p className="text_primary-color fw-6">
                                                     👉 Ramona partners with trusted property management firms in Tampa Bay.

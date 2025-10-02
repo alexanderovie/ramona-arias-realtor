@@ -69,7 +69,7 @@ export default function AboutUs() {
                         Our Mission
                     </h4>
                     <p className="mb_8">
-                        To simplify the real estate journey for every client by providing guidance, transparency, and personalized service. At Ramona Arias Realtor, we focus on helping families and investors in Tampa Bay, St. Petersburg, and Clearwater make confident real estate decisions with peace of mind.
+                        At Ramona Arias Realtor, our mission is to simplify the real estate journey for every client. We provide transparent guidance, clear communication, and personalized service to help families and investors in Tampa Bay, St. Petersburg, and Clearwater make confident real estate decisions.
                     </p>
                     <p>
                         We are committed to delivering personalized experiences, whether you&#39;re buying, selling, or renting. We embrace new technologies and market trends to deliver smarter, faster, and more efficient property solutions.
@@ -81,7 +81,7 @@ export default function AboutUs() {
                         Our Vision
                     </h4>
                     <p className="mb_8">
-                        To be recognized as a trusted real estate partner in Tampa Bay. We aim to build lasting relationships through honesty, communication, and results that truly reflect our clients&#39; goals.
+                        Our vision is to be recognized as a trusted real estate partner in Tampa Bay. We aim to build long-lasting relationships through honesty, innovation, and results that truly reflect our clients&#39; goals.
                     </p>
                     <p>
                         We envision a future where every individual can find their ideal home or investment with confidence, supported by innovation, integrity, and a deep understanding of market needs.
