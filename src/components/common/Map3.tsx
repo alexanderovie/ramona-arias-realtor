@@ -1,84 +1,20 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
-import mapboxgl from "mapbox-gl";
-import "mapbox-gl/dist/mapbox-gl.css";
+import React from "react";
 
 export default function Map3() {
-    const mapContainer = useRef<HTMLDivElement>(null);
-    const [error, setError] = useState<string | null>(null);
-
-    useEffect(() => {
-        const accessToken = typeof process !== 'undefined' ? process.env?.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN : undefined;
-        if (!accessToken) {
-            setError("Missing Mapbox access token.");
-            return;
-        }
-
-        if (!mapContainer.current) return;
-
-        let map: mapboxgl.Map | undefined;
-        try {
-            mapboxgl.accessToken = accessToken;
-            const officeCoordinates: [number, number] = [-87.4548, 41.6389];
-
-            map = new mapboxgl.Map({
-                container: mapContainer.current,
-                style: "mapbox://styles/mapbox/light-v11",
-                center: officeCoordinates,
-                zoom: 13,
-                bearing: 0,
-                pitch: 0,
-                cooperativeGestures: true,
-            });
-
-            map.on("load", () => {
-                const markerElement = document.createElement("div");
-                markerElement.className = "office-marker";
-                markerElement.innerHTML = `<i class="icon-HouseLine"></i>`;
-                const popupContent = `
-                    <div class="office-popup">
-                        <div class="text-title text_primary-color fw-6 mb_4">My Office</div>
-                        <p>400 N Tampa St floor 15, Tampa, FL 33602</p>
-                    </div>
-                `;
-
-                const popup = new mapboxgl.Popup({
-                    closeButton: true,
-                    closeOnClick: false,
-                    offset: [0, -60],
-                }).setHTML(popupContent);
-
-                // TypeScript: map is always defined here
-                new mapboxgl.Marker({
-                    element: markerElement,
-                    anchor: "bottom",
-                })
-                    .setLngLat(officeCoordinates)
-                    .setPopup(popup)
-                    .addTo(map! as mapboxgl.Map)
-                    .togglePopup();
-
-                map!.addControl(new mapboxgl.NavigationControl(), "top-right");
-                map!.addControl(new mapboxgl.FullscreenControl(), "top-right");
-            });
-
-            map.on("error", (e) => {
-                console.error("Mapbox error:", e);
-                setError("Map load error.");
-            });
-        } catch (err) {
-            console.error("Map init error:", err);
-            setError("Map init failed.");
-        }
-
-        return () => {
-            if (map) {
-                map.remove();
-            }
-        };
-    }, []);
-
-    if (error) return <div className="text-red-600">{error}</div>;
-    return <div ref={mapContainer} className="map-container" />;
+    return (
+        <div className="map-container">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3524.1234567890!2d-82.4589!3d27.9286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c2c7c8c8c8c8c8%3A0x1234567890abcdef!2s400%20N%20Tampa%20St%2C%20Tampa%2C%20FL%2033602!5e0!3m2!1sen!2sus!4v1234567890123!5m2!1sen!2sus"
+                width="100%"
+                height="400"
+                style={{ border: 0 }}
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                title="Ramona Arias Realtor Office Location"
+            />
+        </div>
+    );
 }
