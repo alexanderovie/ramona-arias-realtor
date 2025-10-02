@@ -3,37 +3,37 @@ import React from 'react'
 
 const faqsData = [
   {
-    question: "How do I start the home buying process?",
+    question: "Where can I find houses for sale near me in Tampa Bay?",
     answer:
-      "The home buying process begins with getting pre-approved for a mortgage to understand your budget. Next, we'll discuss your needs, preferences, and timeline. I'll help you search for properties in Tampa Bay, schedule viewings, and guide you through making competitive offers. Once under contract, I'll coordinate inspections, appraisals, and closing details to ensure a smooth transaction.",
+      "The best way is to use MLS listings and work with a licensed Realtor who has access to the latest properties. In Tampa, St. Petersburg, and Clearwater, new homes appear daily and often sell quickly. 👉 Ramona can create a customized property search for your preferred neighborhoods.",
     id: "accordion-faq-1",
     expanded: false,
   },
   {
-    question: "What costs are involved in buying a home?",
+    question: "How do I calculate closing costs in Tampa?",
     answer:
-      "Beyond the down payment, you'll need to budget for closing costs (typically 2-5% of home price), which include loan origination fees, title insurance, appraisal, inspection, and escrow fees. In Florida, you'll also have property taxes, homeowners insurance, and potentially HOA fees. I'll provide a detailed breakdown of all costs during our consultation to help you plan your budget effectively.",
+      "Closing costs usually range from 2% to 5% of the purchase price and include appraisal, title insurance, and local taxes. Costs vary by county and lender. 👉 Contact Ramona for a personalized estimate based on your target property.",
     id: "accordion-faq-2",
     expanded: true,
   },
   {
-    question: "How long does it take to buy a home?",
+    question: "Is Tampa a good place to invest in real estate?",
     answer:
-      "The timeline varies, but typically takes 30-45 days from accepted offer to closing. Factors include loan processing time, inspection negotiations, and title work. In Tampa Bay's competitive market, having pre-approval and being ready to move quickly on properties you love is crucial. I'll help you prepare and streamline the process to close as efficiently as possible.",
+      "Yes. Tampa Bay is one of Florida's fastest-growing markets, attracting both homeowners and investors. Strong rental demand and steady appreciation make it attractive for long-term investments. 👉 Ramona provides tailored investment strategies for Tampa, St. Petersburg, and Clearwater.",
     id: "accordion-faq-3",
     expanded: false,
   },
   {
-    question: "Can I buy a home without a real estate agent?",
+    question: "How can I find apartments for rent near me in Tampa Bay?",
     answer:
-      "While technically possible, it's not recommended, especially in Tampa Bay's competitive market. As your agent, I provide market expertise, negotiate on your behalf, handle complex paperwork, coordinate with lenders and inspectors, and ensure you don't miss important deadlines. My services are typically free to buyers as the seller pays the commission, so you get professional representation at no cost to you.",
+      "Online listings, rental platforms, and Realtors are the most common sources. Working with a Realtor gives you access to verified properties and avoids scams. 👉 Ramona connects renters with safe and affordable housing in Tampa Bay.",
     id: "accordion-faq-4",
     expanded: false,
   },
   {
-    question: "Do I need to sell my current home before buying a new one?",
+    question: "What does a property management company do in Tampa Bay?",
     answer:
-      "Not necessarily! You have several options: sell first and rent temporarily, buy first with a bridge loan, or make your new purchase contingent on selling your current home. Each approach has pros and cons depending on your financial situation and market conditions. I'll help you evaluate the best strategy for your specific circumstances in the Tampa Bay market.",
+      "Property managers handle tenant screening, rent collection, maintenance, and legal compliance. They are especially useful for investors who don't live locally. 👉 Ramona partners with trusted property management firms in Tampa Bay.",
     id: "accordion-faq-5",
     expanded: false,
   },
