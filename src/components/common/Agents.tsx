@@ -16,7 +16,7 @@ type Agent = {
 const agents: Agent[] = [
   {
     id: 1,
-    name: "Jessica Lane",
+    name: "Ramona Arias",
     img: "/assets/images/section/agent-1.jpg",
     socials: [
       { icon: "icon-FacebookLogo", href: "#" },
@@ -27,29 +27,7 @@ const agents: Agent[] = [
   },
   {
     id: 2,
-    name: "Michael Smith",
-    img: "/assets/images/section/agent-2.jpg",
-    socials: [
-      { icon: "icon-FacebookLogo", href: "#" },
-      { icon: "icon-XLogo", href: "#" },
-      { icon: "icon-InstagramLogo", href: "https://www.instagram.com/ramonaariasrealtor" },
-      { icon: "icon-YoutubeLogo", href: "#" },
-    ],
-  },
-  {
-    id: 3,
-    name: "Jessica Lane",
-    img: "/assets/images/section/agent-1.jpg",
-    socials: [
-      { icon: "icon-FacebookLogo", href: "#" },
-      { icon: "icon-XLogo", href: "#" },
-      { icon: "icon-InstagramLogo", href: "https://www.instagram.com/ramonaariasrealtor" },
-      { icon: "icon-YoutubeLogo", href: "#" },
-    ],
-  },
-  {
-    id: 4,
-    name: "Michael Smith",
+    name: "Our Office",
     img: "/assets/images/section/agent-2.jpg",
     socials: [
       { icon: "icon-FacebookLogo", href: "#" },
