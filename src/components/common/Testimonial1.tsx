@@ -10,7 +10,7 @@ export default function Testimonial1() {
         {
             id: 1,
             rating: 5,
-            text: ""Ramona made our home buying process so smooth. Her knowledge of the Tampa Bay market helped us find exactly what we were looking for."",
+            text: "\"Ramona made our home buying process so smooth. Her knowledge of the Tampa Bay market helped us find exactly what we were looking for.\"",
             avatar: "/assets/images/avatar/avatar-4.jpg",
             name: "Sarah M.",
             position: "Tampa",
@@ -18,7 +18,7 @@ export default function Testimonial1() {
         {
             id: 2,
             rating: 5,
-            text: ""Professional, reliable, and efficient. Ramona guided us through every step and made the entire process stress-free."",
+            text: "\"Professional, reliable, and efficient. Ramona guided us through every step and made the entire process stress-free.\"",
             avatar: "/assets/images/avatar/avatar-5.jpg",
             name: "Michael R.",
             position: "Brandon",
@@ -26,7 +26,7 @@ export default function Testimonial1() {
         {
             id: 3,
             rating: 5,
-            text: ""Working with Ramona was a great experience. She understood our needs and found us the perfect home in Clearwater."",
+            text: "\"Working with Ramona was a great experience. She understood our needs and found us the perfect home in Clearwater.\"",
             avatar: "/assets/images/avatar/avatar-6.jpg",
             name: "Jennifer L.",
             position: "Clearwater",
@@ -34,7 +34,7 @@ export default function Testimonial1() {
         {
             id: 4,
             rating: 5,
-            text: ""Ramona's dedication and local expertise made all the difference in finding our dream home in St. Petersburg."",
+            text: "\"Ramona's dedication and local expertise made all the difference in finding our dream home in St. Petersburg.\"",
             avatar: "/assets/images/avatar/avatar-7.jpg",
             name: "David K.",
             position: "St. Petersburg",
